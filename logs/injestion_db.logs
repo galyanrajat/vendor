@@ -21,3 +21,13 @@
 2025-07-01 02:34:10,217 - INFO - Data successfully ingested into 'vendor_invoice'
 2025-07-01 02:34:10,218 - INFO - Ingestion completed in 22.27 minutes.
 2025-07-01 02:34:10,220 - INFO - Data ingestion script completed successfully.
+2025-07-02 00:13:16,730 - INFO - Successfully connected to the database.
+2025-07-02 00:13:16,741 - INFO - Starting vendor summary creation process...
+2025-07-02 00:13:16,742 - INFO - Database engine created successfully.
+2025-07-02 00:13:23,112 - INFO - Vendor sales summary created successfully.
+2025-07-02 00:13:23,204 - INFO - Data cleaned successfully.
+2025-07-02 00:13:24,551 - INFO - Data successfully ingested into 'vendor_sales_summary'
+2025-07-02 00:13:24,551 - INFO - Data ingested into 'vendor_sales_summary' table successfully.
+2025-07-02 00:13:24,553 - INFO - Process completed in 7.81 seconds.
+2025-07-02 00:13:24,553 - INFO - Vendor summary creation process completed.
+2025-07-02 00:23:05,571 - INFO - Successfully connected to the database.
