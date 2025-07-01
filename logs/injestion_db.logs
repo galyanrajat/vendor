@@ -1,0 +1,23 @@
+2025-07-01 02:11:53,764 - INFO - Successfully connected to the database.
+2025-07-01 02:11:53,765 - INFO - Starting data ingestion process...
+2025-07-01 02:11:53,765 - INFO - Found 6 CSV files to process.
+2025-07-01 02:11:53,766 - INFO - Reading file: begin_inventory.csv
+2025-07-01 02:11:54,455 - INFO - Loaded 206529 rows from 'begin_inventory.csv'
+2025-07-01 02:12:05,273 - INFO - Data successfully ingested into 'begin_inventory'
+2025-07-01 02:12:05,274 - INFO - Reading file: end_inventory.csv
+2025-07-01 02:12:05,754 - INFO - Loaded 224489 rows from 'end_inventory.csv'
+2025-07-01 02:12:17,187 - INFO - Data successfully ingested into 'end_inventory'
+2025-07-01 02:12:17,188 - INFO - Reading file: purchases.csv
+2025-07-01 02:12:24,694 - INFO - Loaded 2372474 rows from 'purchases.csv'
+2025-07-01 02:15:45,827 - INFO - Data successfully ingested into 'purchases'
+2025-07-01 02:15:45,847 - INFO - Reading file: purchase_prices.csv
+2025-07-01 02:15:46,144 - INFO - Loaded 12261 rows from 'purchase_prices.csv'
+2025-07-01 02:15:46,867 - INFO - Data successfully ingested into 'purchase_prices'
+2025-07-01 02:15:46,867 - INFO - Reading file: sales.csv
+2025-07-01 02:16:29,747 - INFO - Loaded 12825363 rows from 'sales.csv'
+2025-07-01 02:34:07,792 - INFO - Data successfully ingested into 'sales'
+2025-07-01 02:34:07,862 - INFO - Reading file: vendor_invoice.csv
+2025-07-01 02:34:09,671 - INFO - Loaded 5543 rows from 'vendor_invoice.csv'
+2025-07-01 02:34:10,217 - INFO - Data successfully ingested into 'vendor_invoice'
+2025-07-01 02:34:10,218 - INFO - Ingestion completed in 22.27 minutes.
+2025-07-01 02:34:10,220 - INFO - Data ingestion script completed successfully.
